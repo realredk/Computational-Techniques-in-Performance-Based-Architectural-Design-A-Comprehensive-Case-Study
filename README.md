@@ -1,3 +1,5 @@
+<div align="justify">
+
 # Computational Techniques in Performance-Based Architectural Design: A Comprehensive Case Study
 
 ## Introduction
